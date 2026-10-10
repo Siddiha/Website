@@ -1,0 +1,6 @@
+{
+  "name": "Ceylon Aura Travels & Tours",
+  "description": "Premier Sri Lankan luxury travel agency offering bespoke tours in Sri Lanka, Turkey, Thailand, Maldives, and worldwide vacations with direct WhatsApp booking on 0771947844.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
